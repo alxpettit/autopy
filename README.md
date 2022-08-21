@@ -41,7 +41,7 @@ If that fails, install [rustup](https://rustup.rs) and then run:
 
 Another option is to build from the latest source on the GitHub repository:
 
-    $ git clone git://github.com/autopilot-rs/autopy-rs.git
+    $ git clone 'https://github.com/autopilot-rs/autopy'
     $ cd autopy
     $ make
     $ make install
